@@ -3,22 +3,22 @@
         {
             "singleplayer": [
                 {
-                    "map": "daycareMap",
+                    "map": "houseMap",
                     "difficulty": 3
                 },
                 {
-                    "map": "houseMap",
-                    "difficulty": 1
+                    "map": "circusMap",
+                    "difficulty": 2
                 },
                 {
-                    "map": "circusMap",
-                    "difficulty": 1
+                    "map": "daycareMap",
+                    "difficulty": 0
                 }
             ],
             "multiplayer": [
                 {
                     "map": "daycareMap",
-                    "difficulty": 2
+                    "difficulty": 3
                 }
             ],
             "extras": {
@@ -32,109 +32,16 @@
         {
             "singleplayer": [
                 {
-                    "map": "daycareMap",
+                    "map": "circusMap",
                     "difficulty": 1
                 }
             ],
-            "multiplayer": [],
-            "extras": {
-                "medal": {
-                    "map": "daycareMap",
-                    "quantity": 1
-                },
-                "endless": {
-                    "map": "daycareMap",
-                    "quantity": 2
-                }
-            }
-        },
-        {
-            "singleplayer": [
-                {
-                    "map": "daycareMap",
-                    "difficulty": 0
-                }
-            ],
             "multiplayer": [
-                {
-                    "map": "daycareMap",
-                    "difficulty": 0
-                }
-            ],
-            "extras": {
-                "medal": {
-                    "map": "houseMap",
-                    "quantity": 2
-                },
-                "endless": {
-                    "map": "daycareMap",
-                    "quantity": 2
-                }
-            }
-        },
-        {
-            "singleplayer": [
-                {
-                    "map": "daycareMap",
-                    "difficulty": 3
-                },
-                {
-                    "map": "circusMap",
-                    "difficulty": 3
-                },
-                {
-                    "map": "houseMap",
-                    "difficulty": 0
-                }
-            ],
-            "multiplayer": [],
-            "extras": {
-                "random": "circusMap",
-                "medal": {
-                    "map": "circusMap",
-                    "quantity": 2
-                }
-            }
-        },
-        {
-            "singleplayer": [
-                {
-                    "map": "daycareMap",
-                    "difficulty": 3
-                },
-                {
-                    "map": "houseMap",
-                    "difficulty": 3
-                }
-            ],
-            "multiplayer": [],
-            "extras": {
-                "medal": {
-                    "map": "houseMap",
-                    "quantity": 3
-                },
-                "endless": {
-                    "map": "houseMap",
-                    "quantity": 2
-                }
-            }
-        },
-        {
-            "singleplayer": [
-                {
-                    "map": "daycareMap",
-                    "difficulty": 0
-                },
-                {
-                    "map": "houseMap",
-                    "difficulty": 3
-                },
                 {
                     "map": "circusMap",
                     "difficulty": 2
                 }
             ],
-            "multiplayer": [],
             "extras": {
                 "medal": {
                     "map": "daycareMap",
@@ -149,12 +56,36 @@
         {
             "singleplayer": [
                 {
+                    "map": "daycareMap",
+                    "difficulty": 1
+                },
+                {
                     "map": "houseMap",
                     "difficulty": 2
                 },
                 {
-                    "map": "daycareMap",
+                    "map": "circusMap",
                     "difficulty": 2
+                }
+            ],
+            "multiplayer": [],
+            "extras": {
+                "random": "daycareMap",
+                "medal": {
+                    "map": "houseMap",
+                    "quantity": 1
+                }
+            }
+        },
+        {
+            "singleplayer": [
+                {
+                    "map": "daycareMap",
+                    "difficulty": 0
+                },
+                {
+                    "map": "houseMap",
+                    "difficulty": 0
                 },
                 {
                     "map": "circusMap",
@@ -163,10 +94,82 @@
             ],
             "multiplayer": [],
             "extras": {
-                "random": "circusMap",
                 "medal": {
+                    "map": "houseMap",
+                    "quantity": 1
+                },
+                "endless": {
                     "map": "daycareMap",
                     "quantity": 2
+                }
+            }
+        },
+        {
+            "singleplayer": [
+                {
+                    "map": "circusMap",
+                    "difficulty": 2
+                }
+            ],
+            "multiplayer": [],
+            "extras": {
+                "random": "circusMap",
+                "medal": {
+                    "map": "houseMap",
+                    "quantity": 3
+                }
+            }
+        },
+        {
+            "singleplayer": [
+                {
+                    "map": "daycareMap",
+                    "difficulty": 2
+                },
+                {
+                    "map": "houseMap",
+                    "difficulty": 0
+                },
+                {
+                    "map": "circusMap",
+                    "difficulty": 3
+                }
+            ],
+            "multiplayer": [],
+            "extras": {
+                "random": "daycareMap",
+                "medal": {
+                    "map": "daycareMap",
+                    "quantity": 1
+                }
+            }
+        },
+        {
+            "singleplayer": [
+                {
+                    "map": "circusMap",
+                    "difficulty": 2
+                },
+                {
+                    "map": "houseMap",
+                    "difficulty": 1
+                },
+                {
+                    "map": "daycareMap",
+                    "difficulty": 3
+                }
+            ],
+            "multiplayer": [
+                {
+                    "map": "daycareMap",
+                    "difficulty": 0
+                }
+            ],
+            "extras": {
+                "random": "daycareMap",
+                "medal": {
+                    "map": "circusMap",
+                    "quantity": 1
                 }
             }
         }
@@ -174,50 +177,6 @@
     "weekly": {
         "singleplayer": [
             {
-                "map": "daycareMap",
-                "difficulty": 3
-            },
-            {
-                "map": "houseMap",
-                "difficulty": 1
-            },
-            {
-                "map": "circusMap",
-                "difficulty": 1
-            },
-            {
-                "map": "daycareMap",
-                "difficulty": 1
-            },
-            {
-                "map": "daycareMap",
-                "difficulty": 0
-            },
-            {
-                "map": "daycareMap",
-                "difficulty": 3
-            },
-            {
-                "map": "circusMap",
-                "difficulty": 3
-            },
-            {
-                "map": "houseMap",
-                "difficulty": 0
-            },
-            {
-                "map": "daycareMap",
-                "difficulty": 3
-            },
-            {
-                "map": "houseMap",
-                "difficulty": 3
-            },
-            {
-                "map": "daycareMap",
-                "difficulty": 0
-            },
-            {
                 "map": "houseMap",
                 "difficulty": 3
             },
@@ -226,7 +185,39 @@
                 "difficulty": 2
             },
             {
+                "map": "daycareMap",
+                "difficulty": 0
+            },
+            {
+                "map": "circusMap",
+                "difficulty": 1
+            },
+            {
+                "map": "daycareMap",
+                "difficulty": 1
+            },
+            {
                 "map": "houseMap",
+                "difficulty": 2
+            },
+            {
+                "map": "circusMap",
+                "difficulty": 2
+            },
+            {
+                "map": "daycareMap",
+                "difficulty": 0
+            },
+            {
+                "map": "houseMap",
+                "difficulty": 0
+            },
+            {
+                "map": "circusMap",
+                "difficulty": 1
+            },
+            {
+                "map": "circusMap",
                 "difficulty": 2
             },
             {
@@ -234,13 +225,33 @@
                 "difficulty": 2
             },
             {
+                "map": "houseMap",
+                "difficulty": 0
+            },
+            {
                 "map": "circusMap",
+                "difficulty": 3
+            },
+            {
+                "map": "circusMap",
+                "difficulty": 2
+            },
+            {
+                "map": "houseMap",
                 "difficulty": 1
+            },
+            {
+                "map": "daycareMap",
+                "difficulty": 3
             }
         ],
         "multiplayer": [
             {
                 "map": "daycareMap",
+                "difficulty": 3
+            },
+            {
+                "map": "circusMap",
                 "difficulty": 2
             },
             {
@@ -251,18 +262,19 @@
         "extras": {
             "random": [
                 "circusMap",
+                "daycareMap",
                 "circusMap",
-                "circusMap"
+                "daycareMap",
+                "daycareMap"
             ],
             "medal": {
                 "houseMap": 7,
-                "daycareMap": 4,
-                "circusMap": 2
+                "daycareMap": 2,
+                "circusMap": 1
             },
             "endless": {
-                "daycareMap": 4,
-                "houseMap": 2,
-                "circusMap": 3
+                "circusMap": 3,
+                "daycareMap": 2
             }
         }
     }
