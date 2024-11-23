@@ -1,35 +1,35 @@
 const fs = require("fs");
 
-const generateMapsWithDifficulties = (maps, minCount, maxCount, minDifficulty, maxDifficulty) => {
+const generateMapsWithValues = (maps, minCount, maxCount, minValue, maxValue) => {
   const selectedCount = Math.floor(Math.random() * (maxCount - minCount + 1)) + minCount;
   const selectedMaps = maps.sort(() => 0.5 - Math.random()).slice(0, selectedCount);
 
   return selectedMaps.map(map => ({
     map,
-    difficulty: Math.floor(Math.random() * (maxDifficulty - minDifficulty + 1)) + minDifficulty,
+    value: Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue,
   }));
 };
 
 const generateExtras = (maps) => {
   const extras = {};
-  const possibleExtras = ["random", "medal", "endless"];
-  const selectedExtras = possibleExtras.sort(() => 0.5 - Math.random()).slice(0, 2); // 0-2 extras
+  const possibleExtras = ["random", "time_trial", "endless"];
+  const selectedExtras = possibleExtras.sort(() => 0.5 - Math.random()).slice(0, 2);
 
   if (selectedExtras.includes("random")) {
     extras.random = maps[Math.floor(Math.random() * maps.length)];
   }
 
-  if (selectedExtras.includes("medal")) {
-    extras.medal = {
+  if (selectedExtras.includes("time_trial")) {
+    extras.time_trial = {
       map: maps[Math.floor(Math.random() * maps.length)],
-      quantity: Math.floor(Math.random() * 3) + 1, // 1-3
+      value: Math.floor(Math.random() * 3) + 1,
     };
   }
 
   if (selectedExtras.includes("endless")) {
     extras.endless = {
       map: maps[Math.floor(Math.random() * maps.length)],
-      quantity: Math.floor(Math.random() * 3) + 1, // 1-3
+      value: Math.floor(Math.random() * 3) + 1,
     };
   }
 
@@ -40,8 +40,8 @@ const generateDailyData = () => {
   const maps = ["daycareMap", "houseMap", "circusMap"];
 
   return {
-    singleplayer: generateMapsWithDifficulties(maps, 1, 4, 0, 3),
-    multiplayer: generateMapsWithDifficulties(maps, 0, 1, 0, 3),
+    singleplayer: generateMapsWithValues(maps, 1, 4, 0, 3),
+    multiplayer: generateMapsWithValues(maps, 0, 1, 0, 3),
     extras: generateExtras(maps),
   };
 };
@@ -56,22 +56,10 @@ const mergeIntoWeekly = (weekly, daily) => {
   });
 
   if (!weekly.extras) {
-    weekly.extras = { random: [], medal: {}, endless: {} };
+    weekly.extras = [];
   }
 
-  if (daily.extras.random) {
-    weekly.extras.random.push(daily.extras.random);
-  }
-
-  if (daily.extras.medal) {
-    const { map, quantity } = daily.extras.medal;
-    weekly.extras.medal[map] = (weekly.extras.medal[map] || 0) + quantity;
-  }
-
-  if (daily.extras.endless) {
-    const { map, quantity } = daily.extras.endless;
-    weekly.extras.endless[map] = (weekly.extras.endless[map] || 0) + quantity;
-  }
+  weekly.extras.push(daily.extras);
 };
 
 const taskData = {
