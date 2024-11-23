@@ -1,10 +1,10 @@
-name: Run Node File
+name: Generate and Commit JSON
 
 on:
   workflow_dispatch:
 
 jobs:
-  run-node-file:
+  generate-task-json:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -15,5 +15,15 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Run Node.js file
+      - name: Run Node.js script
         run: node scripts/task_generator/task.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add task.json
+          git commit -m "Generated task.json"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
