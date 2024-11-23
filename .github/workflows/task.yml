@@ -2,7 +2,7 @@ name: Generate and Commit JSON
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   generate-task-json:
