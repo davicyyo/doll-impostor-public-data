@@ -24,6 +24,10 @@
             "time_trial": {
                 "map": "daycareMap",
                 "value": 2
+            },
+            "endless": {
+                "map": "daycareMap",
+                "value": 3
             }
         }
     },
@@ -80,6 +84,10 @@
         "extras": {
             "time_trial": {
                 "map": "circusMap",
+                "value": 2
+            },
+            "endless": {
+                "map": "daycareMap",
                 "value": 2
             }
         }
@@ -137,6 +145,10 @@
             "time_trial": {
                 "map": "circusMap",
                 "value": 2
+            },
+            "endless": {
+                "map": "houseMap",
+                "value": 3
             }
         }
     },
@@ -165,6 +177,10 @@
             "random":"circusMap",
             "time_trial": {
                 "map": "daycareMap",
+                "value": 1
+            },
+            "endless": {
+                "map": "houseMap",
                 "value": 1
             }
         }
