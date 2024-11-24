@@ -178,10 +178,6 @@
             "time_trial": {
                 "map": "daycareMap",
                 "value": 1
-            },
-            "endless": {
-                "map": "houseMap",
-                "value": 1
             }
         }
     }
