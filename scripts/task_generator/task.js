@@ -46,34 +46,13 @@ const generateDailyData = () => {
   };
 };
 
-const mergeIntoWeekly = (weekly, daily) => {
-  ["singleplayer", "multiplayer"].forEach(category => {
-    if (!weekly[category]) {
-      weekly[category] = [];
-    }
-
-    weekly[category] = weekly[category].concat(daily[category]);
-  });
-
-  if (!weekly.extras) {
-    weekly.extras = [];
-  }
-
-  weekly.extras.push(daily.extras);
-};
-
-const taskData = {
-  daily: [],
-  weekly: {},
-};
+const dailyTasks = [];
 
 for (let i = 0; i < 7; i++) {
-  const dailyTask = generateDailyData();
-  taskData.daily.push(dailyTask);
-  mergeIntoWeekly(taskData.weekly, dailyTask);
+  dailyTasks.push(generateDailyData());
 }
 
-fs.writeFile("task.json", JSON.stringify(taskData, null, 4), (err) => {
+fs.writeFile("task.json", JSON.stringify(dailyTasks, null, 4), (err) => {
   if (err) {
     console.error("Error writing to file:", err);
   } else {
