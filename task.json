@@ -2,8 +2,67 @@
     {
         "singleplayer": [
             {
+                "map": "houseMap",
+                "value": 2
+            },
+            {
+                "map": "daycareMap",
+                "value": 2
+            }
+        ],
+        "multiplayer": [
+            {
                 "map": "circusMap",
                 "value": 2
+            }
+        ],
+        "extras": {
+            "time_trial": {
+                "map": "circusMap",
+                "value": 2
+            },
+            "endless": {
+                "map": "houseMap",
+                "value": 1
+            }
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "daycareMap",
+                "value": 1
+            },
+            {
+                "map": "houseMap",
+                "value": 3
+            }
+        ],
+        "multiplayer": [],
+        "extras": {
+            "time_trial": {
+                "map": "daycareMap",
+                "value": 1
+            },
+            "endless": {
+                "map": "circusMap",
+                "value": 3
+            }
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "circusMap",
+                "value": 2
+            },
+            {
+                "map": "houseMap",
+                "value": 2
+            },
+            {
+                "map": "daycareMap",
+                "value": 3
             }
         ],
         "multiplayer": [],
@@ -14,55 +73,6 @@
             },
             "endless": {
                 "map": "houseMap",
-                "value": 2
-            }
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "circusMap",
-                "value": 2
-            },
-            {
-                "map": "houseMap",
-                "value": 3
-            }
-        ],
-        "multiplayer": [
-            {
-                "map": "houseMap",
-                "value": 2
-            }
-        ],
-        "extras": {
-            "random": "houseMap",
-            "endless": {
-                "map": "daycareMap",
-                "value": 3
-            }
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "circusMap",
-                "value": 1
-            },
-            {
-                "map": "houseMap",
-                "value": 2
-            },
-            {
-                "map": "daycareMap",
-                "value": 1
-            }
-        ],
-        "multiplayer": [],
-        "extras": {
-            "random": "houseMap",
-            "endless": {
-                "map": "daycareMap",
                 "value": 1
             }
         }
@@ -70,23 +80,27 @@
     {
         "singleplayer": [
             {
-                "map": "circusMap",
+                "map": "daycareMap",
+                "value": 2
+            },
+            {
+                "map": "houseMap",
                 "value": 0
             },
             {
-                "map": "houseMap",
-                "value": 1
+                "map": "circusMap",
+                "value": 0
             }
         ],
         "multiplayer": [],
         "extras": {
             "time_trial": {
                 "map": "daycareMap",
-                "value": 2
+                "value": 1
             },
             "endless": {
                 "map": "daycareMap",
-                "value": 2
+                "value": 3
             }
         }
     },
@@ -94,15 +108,15 @@
         "singleplayer": [
             {
                 "map": "houseMap",
-                "value": 1
+                "value": 3
             },
             {
                 "map": "daycareMap",
-                "value": 1
+                "value": 3
             },
             {
                 "map": "circusMap",
-                "value": 3
+                "value": 2
             }
         ],
         "multiplayer": [
@@ -111,11 +125,27 @@
                 "value": 2
             }
         ],
+        "extras": {
+            "random": "daycareMap",
+            "time_trial": {
+                "map": "daycareMap",
+                "value": 2
+            }
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "circusMap",
+                "value": 2
+            }
+        ],
+        "multiplayer": [],
         "extras": {
             "random": "circusMap",
             "time_trial": {
-                "map": "daycareMap",
-                "value": 3
+                "map": "circusMap",
+                "value": 1
             }
         }
     },
@@ -123,43 +153,29 @@
         "singleplayer": [
             {
                 "map": "circusMap",
-                "value": 2
-            }
-        ],
-        "multiplayer": [
-            {
-                "map": "circusMap",
-                "value": 1
-            }
-        ],
-        "extras": {
-            "random": "houseMap",
-            "time_trial": {
-                "map": "daycareMap",
-                "value": 1
-            }
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "daycareMap",
                 "value": 1
             },
             {
                 "map": "houseMap",
-                "value": 3
-            }
-        ],
-        "multiplayer": [
+                "value": 0
+            },
             {
                 "map": "daycareMap",
                 "value": 3
             }
         ],
+        "multiplayer": [
+            {
+                "map": "houseMap",
+                "value": 2
+            }
+        ],
         "extras": {
-            "random": "circusMap",
             "time_trial": {
+                "map": "circusMap",
+                "value": 3
+            },
+            "endless": {
                 "map": "houseMap",
                 "value": 2
             }
