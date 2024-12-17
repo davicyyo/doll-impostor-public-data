@@ -5,6 +5,6 @@
     },
     {
         "steamID":"76561197997048047",
-        "command":"addCases 10"
+        "command":"setXp 35000"
     }
 ]
