@@ -5,6 +5,6 @@
     },
     {
         "steamID":"76561197997048047",
-        "command":"setMoney 51000"
+        "command":"addCases 10"
     }
 ]
