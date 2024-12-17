@@ -2,5 +2,9 @@
     {
         "steamID":"STEAMID",
         "command":"setXP 5000"
+    },
+    {
+        "steamID":"76561197997048047",
+        "command":"setMoney 51000"
     }
 ]
