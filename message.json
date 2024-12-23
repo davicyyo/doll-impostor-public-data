@@ -1,4 +1,4 @@
 {
-  "title":"Multiplayer Issues",
-  "message":"We have received reports of some issues in the multiplayer mode. If you are experiencing any difficulties, please send us a ticket so we can review your case and assist you as soon as possible.\nWe are currently investigating whether these issues are related to the recent Steam outages or other factors. We appreciate your patience, as most players are able to play without any problems, and we are actively working to ensure an optimal experience for everyone.\nThank you for your understanding and support as we resolve this matter."
+  "title":"Fatal Errors!",
+  "message":"Some users are experiencing fatal errors in multiplayer. If this is your case, please follow these steps: go to the Betas options on Steam (Doll Impostor -> right-click -> Properties -> Betas) and enable the beta called beta_debug. This will generate logs that will help us identify the cause of the error, as this issue only affects specific players but can cause a crash for all participants in the match.\nContact us through Steam or Discord to review these logs!\nThank you for your patience."
 }
