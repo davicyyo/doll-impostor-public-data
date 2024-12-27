@@ -1,6 +1,6 @@
 [
     {
         "steamID":"76561198291569465",
-        "command":"giveAchievement ACH_HALLOWEEN"
+        "command":"newAchievement ACH_HALLOWEEN"
     }
 ]
