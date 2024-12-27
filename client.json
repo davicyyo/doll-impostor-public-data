@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"STEAMID",
-        "command":"setXP 5000"
+        "steamID":"76561198291569465",
+        "command":"giveAchievement ACH_HALLOWEEN"
     }
 ]
