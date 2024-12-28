@@ -1,6 +1,6 @@
 [
     {
         "steamID":"76561198291569465",
-        "command":"modifyStats PUMPKINS 10"
+        "command":"modifyStats MONEY 20"
     }
 ]
