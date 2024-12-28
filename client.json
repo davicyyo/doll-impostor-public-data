@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"STEAMID",
-        "command":"newAchievement ACH_HALLOWEEN"
+        "steamID":"76561198291569465",
+        "command":"modifyStats XP 500"
     }
 ]
