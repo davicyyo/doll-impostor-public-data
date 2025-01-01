@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"steamID",
-        "command":"modifyStats MONEY 20"
+        "steamID":"76561198291569465",
+        "command":"setDayCompleted 0"
     }
 ]
