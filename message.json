@@ -1,4 +1,4 @@
 {
-  "title":"Fatal Errors!",
-  "message":"Some users are experiencing fatal errors in multiplayer. If this is your case, please follow these steps: go to the Betas options on Steam (Doll Impostor -> right-click -> Properties -> Betas) and enable the beta called beta_debug. This will generate logs that will help us identify the cause of the error, as this issue only affects specific players but can cause a crash for all participants in the match.\nContact us through Steam or Discord to review these logs!\nThank you for your patience."
+  "title":"",
+  "message":""
 }
