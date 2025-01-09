@@ -1,6 +1,18 @@
 [
     {
-        "steamID":"steamID",
-        "command":"setXp 1000000"
+        "steamID":"https://steamcommunity.com/id/Aitoreta/",
+        "command":"setDayCompleted 0"
+    },
+    {
+        "steamID":"https://steamcommunity.com/id/Aitoreta/",
+        "command":"setDayCompleted 1"
+    },
+    {
+        "steamID":"https://steamcommunity.com/id/Aitoreta/",
+        "command":"setDayCompleted 2"
+    },
+    {
+        "steamID":"https://steamcommunity.com/id/Aitoreta/",
+        "command":"setDayCompleted 3"
     }
 ]
