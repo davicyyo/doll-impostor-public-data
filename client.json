@@ -1,6 +1,30 @@
 [
     {
-        "steamID":"steamID",
+        "steamID":"76561198024011621",
         "command":"setDayCompleted 0"
+    },
+    {
+        "steamID":"76561198024011621",
+        "command":"setDayCompleted 1"
+    },
+    {
+        "steamID":"76561198024011621",
+        "command":"setDayCompleted 2"
+    },
+    {
+        "steamID":"76561198024011621",
+        "command":"setDayCompleted 3"
+    },
+    {
+        "steamID":"76561198024011621",
+        "command":"setDayCompleted 4"
+    },
+    {
+        "steamID":"76561198024011621",
+        "command":"setDayCompleted 5"
+    },
+    {
+        "steamID":"76561198024011621",
+        "command":"setDayCompleted 6"
     }
 ]
