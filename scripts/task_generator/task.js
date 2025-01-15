@@ -1,10 +1,19 @@
 const fs = require("fs");
 
-const generateMapsWithValues = (maps, minCount, maxCount, minValue, maxValue) => {
-  const selectedCount = Math.floor(Math.random() * (maxCount - minCount + 1)) + minCount;
-  const selectedMaps = maps.sort(() => 0.5 - Math.random()).slice(0, selectedCount);
+const generateMapsWithValues = (
+  maps,
+  minCount,
+  maxCount,
+  minValue,
+  maxValue
+) => {
+  const selectedCount =
+    Math.floor(Math.random() * (maxCount - minCount + 1)) + minCount;
+  const selectedMaps = maps
+    .sort(() => 0.5 - Math.random())
+    .slice(0, selectedCount);
 
-  return selectedMaps.map(map => ({
+  return selectedMaps.map((map) => ({
     map,
     value: Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue,
   }));
@@ -13,7 +22,9 @@ const generateMapsWithValues = (maps, minCount, maxCount, minValue, maxValue) =>
 const generateExtras = (maps) => {
   const extras = {};
   const possibleExtras = ["random", "time_trial", "endless"];
-  const selectedExtras = possibleExtras.sort(() => 0.5 - Math.random()).slice(0, 2);
+  const selectedExtras = possibleExtras
+    .sort(() => 0.5 - Math.random())
+    .slice(0, 2);
 
   if (selectedExtras.includes("random")) {
     extras.random = maps[Math.floor(Math.random() * maps.length)];
@@ -36,6 +47,13 @@ const generateExtras = (maps) => {
   return extras;
 };
 
+const generateCareer = () => {
+  return {
+    map: "career",
+    value: Number(Math.random() < 0.4),
+  };
+};
+
 const generateDailyData = () => {
   const maps = ["daycareMap", "houseMap", "circusMap"];
 
@@ -43,6 +61,7 @@ const generateDailyData = () => {
     singleplayer: generateMapsWithValues(maps, 1, 4, 0, 3),
     multiplayer: generateMapsWithValues(maps, 0, 1, 0, 3),
     extras: generateExtras(maps),
+    career: generateCareer(),
   };
 };
 
