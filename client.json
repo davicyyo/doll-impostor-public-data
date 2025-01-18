@@ -1,6 +1,6 @@
 [
     {
         "steamID":"76561197997048047",
-        "command":"setMoney 10000000"
+        "command":"unlockAllSafehouseItems"
     }
 ]
