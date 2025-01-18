@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"steamID",
-        "command":"setDayCompleted 0"
+        "steamID":"76561197997048047",
+        "command":"setMoney 10000000"
     }
 ]
