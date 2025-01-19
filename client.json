@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"steamId",
-        "command":"unlockAllSafehouseItems 1"
+        "steamID":"STEAMID",
+        "command":"command"
     }
 ]
