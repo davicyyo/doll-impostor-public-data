@@ -1,6 +1,10 @@
 [
     {
-        "steamID":"steamID",
-        "command":"command"
-    }
+        "steamID":"76561198368154258",
+        "command":"setXp 500"
+    },
+    {
+        "steamID":"76561198368154258",
+        "command":"setMoney 500"
+    },
 ]
