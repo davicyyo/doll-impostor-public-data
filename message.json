@@ -1,4 +1,4 @@
 {
-  "title":"Multiplayer issues",
-  "message":"We are currently waiting for Steam to enable trading cards, so it might not work properly. Some people may continue to experience problems with multiplayer. If that's your case, please open a support ticket, and we will investigate it!"
+  "title":"Fatal Errors",
+  "message":"A fix for multiplayer fatal errors has been implemented. If you experience any fatal errors, please send us an error report so we can continue troubleshooting."
 }
