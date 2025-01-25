@@ -1,4 +1,4 @@
 {
-  "title":"Multiplayer issues!",
-  "message":"For players experiencing fatal errors while playing multiplayer, I have created a branch on Steam called 'fatal_errors' Please test this branch to see if it resolves the issue. Whether it works or fails, please use the in-game reporting system to let me know! Activate the beta: Steam -> Doll Impostor -> Right-click -> Properties -> Betas -> Select 'fatal_errors'"
+  "title":"Fatal Errors",
+  "message":"We have identified that the multiplayer fatal errors are caused by an issue in Unreal Engine 5. So far, we have not found an effective solution and are dependent on future updates of the engine to resolve it. Thank you for your understanding."
 }
