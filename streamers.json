@@ -1,4 +1,4 @@
-[
+{
   "top":[
     {
       "steamID":"steamID",
@@ -15,4 +15,4 @@
       "photo":"photo"
     }
   ]
-]
+}
