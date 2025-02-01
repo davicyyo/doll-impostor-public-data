@@ -1,8 +1,18 @@
 [
+  "top":[
+    {
+      "steamID":"steamID",
+      "name":"name",
+      "url":"url",
+      "photo":"photo"
+    }
+  ]
+  "list":[
   {
-    "steamID":"steamID",
-    "name":"name",
-    "url":"url",
-    "photo":"photo"
-  }
+      "steamID":"steamID",
+      "name":"name",
+      "url":"url",
+      "photo":"photo"
+    }
+  ]
 ]
