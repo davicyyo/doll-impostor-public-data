@@ -1,18 +1,18 @@
 {
   "top":[
     {
-      "steamID":"steamID",
-      "name":"name",
-      "url":"url",
-      "photo":"photo"
+      "steamID":"https://steamcommunity.com/id/davicyyo/",
+      "name":"davicyyotv",
+      "url":"https://www.twitch.tv/davicyyotv",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/faa250ea-e7a0-4fb9-94d3-7ce76f8cd867-profile_image-70x70.png"
     }
   ],
   "list":[
-  {
-      "steamID":"steamID",
-      "name":"name",
-      "url":"url",
-      "photo":"photo"
+    {
+      "steamID":"https://steamcommunity.com/id/davicyyo/",
+      "name":"davicyyotv",
+      "url":"https://www.twitch.tv/davicyyotv",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/faa250ea-e7a0-4fb9-94d3-7ce76f8cd867-profile_image-70x70.png"
     }
   ]
 }
