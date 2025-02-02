@@ -1,18 +1,30 @@
 {
   "top":[
     {
-      "steamID":"https://steamcommunity.com/id/davicyyo/",
-      "name":"davicyyotv",
-      "url":"https://www.twitch.tv/davicyyotv",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/faa250ea-e7a0-4fb9-94d3-7ce76f8cd867-profile_image-70x70.png"
+      "steamID":"76561198024011621",
+      "name":"Aitoreta",
+      "url":"https://www.twitch.tv/aitoreta",
+      "photo":"https://avatars.cloudflare.steamstatic.com/0388646b693a6f6fe8f540f30afef517029a76db_full.jpg"
     }
   ],
   "list":[
     {
-      "steamID":"https://steamcommunity.com/id/davicyyo/",
-      "name":"davicyyotv",
-      "url":"https://www.twitch.tv/davicyyotv",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/faa250ea-e7a0-4fb9-94d3-7ce76f8cd867-profile_image-70x70.png"
+      "steamID":"76561198104697018",
+      "name":"WolfOnF1r3",
+      "url":"https://www.twitch.tv/wolfonf1r3",
+      "photo":"https://avatars.cloudflare.steamstatic.com/5e116838041f72965c3f4a4670d46a649e092c6c_full.jpg"
+    },
+    {
+      "steamID":"76561198091646120",
+      "name":"GameHauntings",
+      "url":"https://www.twitch.tv/gamehauntings",
+      "photo":"https://avatars.cloudflare.steamstatic.com/25523c04aa68e343389ad3a12f9dbc6ab70733c3_full.jpg"
+    },
+    {
+      "steamID":"76561199128139064",
+      "name":"dm_darkqueen",
+      "url":"https://www.twitch.tv/dm_darkqueen",
+      "photo":"https://avatars.cloudflare.steamstatic.com/0d03ceeab5d673b969786349eeffa7ea478adf28_full.jpg"
     }
   ]
 }
