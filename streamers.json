@@ -45,16 +45,16 @@
       "photo":"https://avatars.cloudflare.steamstatic.com/844fed6c609968b1a4275e1622258e0212ee484e_full.jpg"
     },
     {
-      "steamID":"76561198973991262",
-      "name":"Meatball",
-      "url":"https://www.twitch.tv/meatba",
-      "photo":"https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2695270/2bf929fed22308445efc58c56be6af1203760570.gif"
-    },
-    {
       "steamID":"76561199643172869",
       "name":"Slassti",
       "url":"https://www.twitch.tv/slassti",
       "photo":"https://avatars.steamstatic.com/30ea93f818a0afae26e72372e749100e983f4c9b_full.jpg"
+    },
+    {
+      "steamID":"76561198973991262",
+      "name":"Meatball",
+      "url":"https://www.twitch.tv/meatba",
+      "photo":"https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2695270/2bf929fed22308445efc58c56be6af1203760570.gif"
     }
   ]
 }
