@@ -2,44 +2,57 @@
     {
         "singleplayer": [
             {
-                "map": "circusMap",
+                "map": "daycareMap",
+                "value": 1
+            },
+            {
+                "map": "houseMap",
                 "value": 0
+            },
+            {
+                "map": "circusMap",
+                "value": 1
             }
         ],
         "multiplayer": [],
         "extras": {
-            "random": "houseMap",
-            "endless": {
-                "map": "daycareMap",
+            "random": "daycareMap",
+            "time_trial": {
+                "map": "houseMap",
                 "value": 1
             }
         },
         "career": {
             "map": "career",
-            "value": 1
+            "value": 0
         }
     },
     {
         "singleplayer": [
             {
-                "map": "daycareMap",
-                "value": 1
-            },
-            {
                 "map": "circusMap",
-                "value": 1
+                "value": 2
             },
             {
                 "map": "houseMap",
+                "value": 3
+            },
+            {
+                "map": "daycareMap",
                 "value": 1
             }
         ],
-        "multiplayer": [],
-        "extras": {
-            "random": "houseMap",
-            "time_trial": {
+        "multiplayer": [
+            {
                 "map": "circusMap",
                 "value": 1
+            }
+        ],
+        "extras": {
+            "random": "daycareMap",
+            "time_trial": {
+                "map": "houseMap",
+                "value": 2
             }
         },
         "career": {
@@ -55,34 +68,19 @@
             },
             {
                 "map": "houseMap",
-                "value": 1
+                "value": 2
             },
             {
                 "map": "circusMap",
-                "value": 1
-            }
-        ],
-        "multiplayer": [],
-        "extras": {
-            "random": "houseMap",
-            "time_trial": {
-                "map": "circusMap",
                 "value": 2
             }
-        },
-        "career": {
-            "map": "career",
-            "value": 1
-        }
-    },
-    {
-        "singleplayer": [
+        ],
+        "multiplayer": [
             {
-                "map": "circusMap",
-                "value": 1
+                "map": "daycareMap",
+                "value": 2
             }
         ],
-        "multiplayer": [],
         "extras": {
             "random": "circusMap",
             "time_trial": {
@@ -92,36 +90,33 @@
         },
         "career": {
             "map": "career",
-            "value": 1
+            "value": 0
         }
     },
     {
         "singleplayer": [
             {
-                "map": "circusMap",
-                "value": 1
-            },
-            {
                 "map": "daycareMap",
-                "value": 2
+                "value": 0
             },
             {
                 "map": "houseMap",
+                "value": 0
+            },
+            {
+                "map": "circusMap",
                 "value": 1
             }
         ],
         "multiplayer": [
             {
-                "map": "circusMap",
-                "value": 0
+                "map": "daycareMap",
+                "value": 1
             }
         ],
         "extras": {
+            "random": "houseMap",
             "time_trial": {
-                "map": "daycareMap",
-                "value": 2
-            },
-            "endless": {
                 "map": "houseMap",
                 "value": 1
             }
@@ -134,20 +129,15 @@
     {
         "singleplayer": [
             {
-                "map": "houseMap",
+                "map": "circusMap",
                 "value": 2
             }
         ],
-        "multiplayer": [
-            {
-                "map": "circusMap",
-                "value": 3
-            }
-        ],
+        "multiplayer": [],
         "extras": {
-            "random": "daycareMap",
-            "time_trial": {
-                "map": "houseMap",
+            "random": "houseMap",
+            "endless": {
+                "map": "daycareMap",
                 "value": 3
             }
         },
@@ -160,26 +150,59 @@
         "singleplayer": [
             {
                 "map": "daycareMap",
-                "value": 3
-            },
-            {
-                "map": "circusMap",
                 "value": 0
             },
             {
                 "map": "houseMap",
                 "value": 1
+            },
+            {
+                "map": "circusMap",
+                "value": 3
             }
         ],
-        "multiplayer": [],
+        "multiplayer": [
+            {
+                "map": "daycareMap",
+                "value": 2
+            }
+        ],
         "extras": {
             "time_trial": {
-                "map": "houseMap",
-                "value": 3
+                "map": "daycareMap",
+                "value": 2
             },
             "endless": {
                 "map": "houseMap",
+                "value": 1
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 1
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "daycareMap",
                 "value": 2
+            }
+        ],
+        "multiplayer": [
+            {
+                "map": "circusMap",
+                "value": 0
+            }
+        ],
+        "extras": {
+            "time_trial": {
+                "map": "circusMap",
+                "value": 3
+            },
+            "endless": {
+                "map": "circusMap",
+                "value": 1
             }
         },
         "career": {
