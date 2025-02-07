@@ -1,4 +1,4 @@
 {
-  "title":"Fatal Errors",
-  "message":"We have identified that the multiplayer fatal errors are caused by an issue in Unreal Engine 5. So far, we have not found an effective solution and are dependent on future updates of the engine to resolve it. Thank you for your understanding."
+  "title":"Multiplayer issues",
+  "message":"A small group of players is experiencing critical errors due to recent updates in Unreal Engine 5. We are currently awaiting a solution from Epic Games. We apologize for the inconvenience and will work on a fix as soon as Unreal Engine implements the necessary corrections in its engine."
 }
