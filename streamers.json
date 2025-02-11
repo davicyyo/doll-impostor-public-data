@@ -91,6 +91,12 @@
       "name":"Sentishock",
       "url":"https://www.twitch.tv/sentishock",
       "photo":"https://avatars.steamstatic.com/511ece306d8b77b0fcfadb1e0dbdd892331690a8_full.jpg"
+    },
+    {
+      "steamID":"76561199108416371",
+      "name":"DarkSora",
+      "url":"https://www.twitch.tv/darksora_protocute",
+      "photo":"https://avatars.fastly.steamstatic.com/85322b53630a06b59417209027e97cd659be4038_full.jpg"
     }
   ]
 }
