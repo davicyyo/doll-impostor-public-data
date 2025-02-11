@@ -5,15 +5,15 @@
       "name":"Aitoreta",
       "url":"https://www.twitch.tv/aitoreta",
       "photo":"https://avatars.cloudflare.steamstatic.com/0388646b693a6f6fe8f540f30afef517029a76db_full.jpg"
-    },
+    }
+  ],
+  "list":[
     {
       "steamID":"76561198080462976",
       "name":"CrashDiet",
       "url":"https://www.twitch.tv/crashdiet_05",
       "photo":"https://avatars.steamstatic.com/c1938f818f85b95a612e4951d8392b1d1ed46311_full.jpg"
-    }
-  ],
-  "list":[
+    },
     {
       "steamID":"76561198104697018",
       "name":"WolfOnF1r3",
