@@ -97,6 +97,18 @@
       "name":"DarkSora",
       "url":"https://www.twitch.tv/darksora_protocute",
       "photo":"https://avatars.fastly.steamstatic.com/85322b53630a06b59417209027e97cd659be4038_full.jpg"
+    },
+    {
+      "steamID":"76561198198407398",
+      "name":"JustSomeDude44",
+      "url":"https://www.twitch.tv/justsomedude44",
+      "photo":"https://avatars.fastly.steamstatic.com/26321b7f91031c001662257728d06d53a9daccd2_full.jpg"
+    },
+    {
+      "steamID":"76561199535774808",
+      "name":"DotWonk",
+      "url":"https://www.twitch.tv/dotwonk",
+      "photo":"https://avatars.fastly.steamstatic.com/d089668a87179b08bb1d30359fc70c4f0f525d10_full.jpg"
     }
   ]
 }
