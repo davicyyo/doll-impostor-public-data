@@ -109,6 +109,18 @@
       "name":"DotWonk",
       "url":"https://www.twitch.tv/dotwonk",
       "photo":"https://avatars.fastly.steamstatic.com/d089668a87179b08bb1d30359fc70c4f0f525d10_full.jpg"
+    },
+    {
+      "steamID":"76561198187687375",
+      "name":"BabaYaga",
+      "url":"https://www.twitch.tv/bryanxbabayaga",
+      "photo":"https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/2181610/44077845206c039b7b08c9052e38d440c00da009.gif"
+    },
+    {
+      "steamID":"76561199097896043",
+      "name":"UrFavSavage",
+      "url":"https://kick.com/urfavsavage",
+      "photo":"https://files.kick.com/images/user/1500950/profile_image/conversion/f581e1bd-91e1-4533-8d77-559fd68695d8-fullsize.webp"
     }
   ]
 }
