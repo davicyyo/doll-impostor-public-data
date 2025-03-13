@@ -1,0 +1,28 @@
+name: Update Today JSON
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update today.json
+        run: |
+          YEAR=$(date -u +"%Y")
+          MONTH=$(date -u +"%-m")
+          DAY=$(date -u +"%-d")
+          DAY_OF_WEEK=$(( ($(date -u +"%u") + 6) % 7 ))
+          echo "{ \"year\": $YEAR, \"month\": $MONTH, \"day\": $DAY, \"dayOfWeek\": $DAY_OF_WEEK }" > today.json
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add today.json
+          git commit -m "Update today.json with today's date" || echo "No changes to commit"
+          git push
