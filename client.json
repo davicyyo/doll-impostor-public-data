@@ -1,14 +1,6 @@
 [
     {
-        "steamID":"76561198356244967",
-        "command":"setDayCompleted 0"
-    },
-    {
-        "steamID":"76561198356244967",
-        "command":"setDayCompleted 1"
-    },
-    {
-        "steamID":"76561198356244967",
-        "command":"setDayCompleted 2"
+        "steamID":"steamID",
+        "command":"cmd"
     }
 ]
