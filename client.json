@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"steamID",
-        "command":"cmd"
+        "steamID":"76561198356244967",
+        "command":"modifyStats WEEKLY 1"
     }
 ]
