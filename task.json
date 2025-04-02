@@ -29,8 +29,12 @@
     {
         "singleplayer": [
             {
-                "map": "houseMap",
+                "map": "cabinMap",
                 "value": 3
+            },
+            {
+                "map": "circusMap",
+                "value": 2
             }
         ],
         "multiplayer": [],
@@ -38,7 +42,15 @@
             "time_trial": {
                 "map": "cabinMap",
                 "value": 3
+            },
+            "endless": {
+                "map": "cabinMap",
+                "value": 2
             }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
         }
     },
     {
