@@ -29,31 +29,12 @@
     {
         "singleplayer": [
             {
-                "map": "daycareMap",
-                "value": 3
-            },
-            {
                 "map": "houseMap",
                 "value": 3
             }
         ],
-        "multiplayer": [
-            {
-                "map": "cabinMap",
-                "value": 4
-            }
-        ],
-        "extras": {
-            "random": "daycareMap",
-            "time_trial": {
-                "map": "daycareMap",
-                "value": 2
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 0
-        }
+        "multiplayer": [],
+        "extras": {}
     },
     {
         "singleplayer": [
