@@ -34,7 +34,12 @@
             }
         ],
         "multiplayer": [],
-        "extras": {}
+        "extras": {
+            "time_trial": {
+                "map": "cabinMap",
+                "value": 3
+            }
+        }
     },
     {
         "singleplayer": [
