@@ -90,7 +90,7 @@
         "singleplayer": [
             {
                 "map": "houseMap",
-                "value": 4
+                "value": 3
             },
             {
                 "map": "cabinMap",
@@ -115,14 +115,14 @@
         }
     },
     {
-        "singleplayer": [
+        "singleplayer": [º
             {
                 "map": "cabinMap",
                 "value": 2
             },
             {
                 "map": "daycareMap",
-                "value": 4
+                "value": 3
             },
             {
                 "map": "houseMap",
