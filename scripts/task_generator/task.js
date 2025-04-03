@@ -58,8 +58,8 @@ const generateDailyData = () => {
   const maps = ["daycareMap", "houseMap", "circusMap","cabinMap"];
 
   return {
-    singleplayer: generateMapsWithValues(maps, 1, 4, 0, 4),
-    multiplayer: generateMapsWithValues(maps, 0, 1, 0, 4),
+    singleplayer: generateMapsWithValues(maps, 1, 4, 0, 3),
+    multiplayer: generateMapsWithValues(maps, 0, 1, 0, 3),
     extras: generateExtras(maps),
     career: generateCareer(),
   };
