@@ -43,10 +43,22 @@
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/c5cb8ffc-adad-4364-95fb-d869459dd7b6-profile_image-70x70.png"
     },
     {
-      "steamID":"76561198187687375",
-      "name":"BabaYaga",
-      "url":"https://www.twitch.tv/bryanxbabayaga",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/92d960fe-5766-445b-876b-82055f9779ae-profile_image-70x70.png"
+      "steamID":"76561198973991262",
+      "name":"Meatba",
+      "url":"https://www.twitch.tv/meatba",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ec166add-9bef-4679-b62d-e5d3724986b9-profile_image-70x70.png"
+    },
+    {
+      "steamID":"76561198079963281",
+      "name":"ssrjazz",
+      "url":"https://www.twitch.tv/ssrjazz",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/71f63a8a-9f88-4517-a2f2-e490aa3fafaa-profile_image-70x70.jpg"
+    },
+    {
+      "steamID":"76561198140978888",
+      "name":"Noble Vampire",
+      "url":"https://www.twitch.tv/noblevampire",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/736ab5d3-2d25-41fa-9f55-1c3edfc96f8f-profile_image-70x70.png"
     }
   ],
   "list":[
@@ -69,30 +81,6 @@
       "photo":"https://avatars.cloudflare.steamstatic.com/0d03ceeab5d673b969786349eeffa7ea478adf28_full.jpg"
     },
     {
-      "steamID":"76561199196926236",
-      "name":"NocturnalNemz",
-      "url":"https://twitch.tv/nocturnalnemz",
-      "photo":"https://avatars.cloudflare.steamstatic.com/ca24f8a46894e65d026b5e0a40b7d71dd771655c_full.jpg"
-    },
-    {
-      "steamID":"76561199643172869",
-      "name":"Slassti",
-      "url":"https://www.twitch.tv/slassti",
-      "photo":"https://avatars.steamstatic.com/30ea93f818a0afae26e72372e749100e983f4c9b_full.jpg"
-    },
-    {
-      "steamID":"76561198973991262",
-      "name":"Meatba",
-      "url":"https://www.twitch.tv/meatba",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ec166add-9bef-4679-b62d-e5d3724986b9-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561198966274739",
-      "name":"Bulbolt",
-      "url":"https://www.twitch.tv/bulbolt",
-      "photo":"https://avatars.fastly.steamstatic.com/adb24eb5c6258f907f92ac4c4b50af6f08c6d5ff_full.jpg"
-    },
-    {
       "steamID":"76561198306682760",
       "name":"xNeysha",
       "url":"https://www.twitch.tv/xneysha",
@@ -103,12 +91,6 @@
       "name":"LittleBlackHood",
       "url":"https://www.twitch.tv/littleblackhood",
       "photo":"https://avatars.steamstatic.com/bb4da6bed3fc35ec5fcf093a6786616c3d210897_full.jpg"
-    },
-    {
-      "steamID":"76561198182840647",
-      "name":"AdriCano13",
-      "url":"https://www.twitch.tv/adricano13",
-      "photo":"https://avatars.steamstatic.com/51cfee658ca02a33ab56006739b9d8f828d4d579_full.jpg"
     },
     {
       "steamID":"76561198050197774",
@@ -135,28 +117,10 @@
       "photo":"https://pbs.twimg.com/profile_images/1641101768149934085/y8Z8cRhn_400x400.jpg"
     },
     {
-      "steamID":"76561199668006154",
-      "name":"JessVorhees",
-      "url":"http://twitch.tv/jessvorhees",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/c34caed5-f557-4789-9eb3-0a191bdf3435-profile_image-70x70.png"
-    },
-    {
       "steamID":"76561197997048047",
       "name":"Davicyyo (dev)",
       "url":"https://www.twitch.tv/davicyyotv",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/faa250ea-e7a0-4fb9-94d3-7ce76f8cd867-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561198054997391",
-      "name":"Herohayo",
-      "url":"https://www.twitch.tv/herohayo",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/568e7fbf-9ca7-4c40-82f7-89b912c44076-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561198120817292",
-      "name":"FaNtMxAces",
-      "url":"https://www.twitch.tv/fantmxaces",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/fb89df07-04c0-4a8f-99aa-22024d2997cb-profile_image-70x70.png"
     },
     {
       "steamID":"76561198405724341",
@@ -177,16 +141,10 @@
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/6ff13dac-04e8-4520-8047-d4004d6e458b-profile_image-70x70.png"
     },
     {
-      "steamID":"76561198079963281",
-      "name":"ssrjazz",
-      "url":"https://www.twitch.tv/ssrjazz",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/71f63a8a-9f88-4517-a2f2-e490aa3fafaa-profile_image-70x70.jpg"
-    },
-    {
-      "steamID":"76561198140978888",
-      "name":"Noble Vampire",
-      "url":"https://www.twitch.tv/noblevampire",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/736ab5d3-2d25-41fa-9f55-1c3edfc96f8f-profile_image-70x70.png"
+      "steamID":"76561198187687375",
+      "name":"BabaYaga",
+      "url":"https://www.twitch.tv/bryanxbabayaga",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/92d960fe-5766-445b-876b-82055f9779ae-profile_image-70x70.png"
     },
     {
       "steamID":"76561199436931751",
