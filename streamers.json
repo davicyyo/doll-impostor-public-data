@@ -19,24 +19,6 @@
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/521b769f-e0bc-4a26-bb89-21c907001148-profile_image-70x70.png"
     },
     {
-      "steamID":"76561198024011621",
-      "name":"Aitoreta",
-      "url":"https://www.twitch.tv/aitoreta",
-      "photo":"https://avatars.cloudflare.steamstatic.com/0388646b693a6f6fe8f540f30afef517029a76db_full.jpg"
-    },
-    {
-      "steamID":"76561198117412530",
-      "name":"Ninggeez",
-      "url":"http://www.twitch.tv/ninggeez",
-      "photo":"https://avatars.cloudflare.steamstatic.com/844fed6c609968b1a4275e1622258e0212ee484e_full.jpg"
-    },
-    {
-      "steamID":"76561198080462976",
-      "name":"CrashDiet",
-      "url":"https://www.twitch.tv/crashdiet_05",
-      "photo":"https://avatars.steamstatic.com/c1938f818f85b95a612e4951d8392b1d1ed46311_full.jpg"
-    },
-    {
       "steamID":"76561198356244967",
       "name":"mayers_cofi",
       "url":"https://www.twitch.tv/mayers_cofi",
@@ -49,6 +31,12 @@
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ec166add-9bef-4679-b62d-e5d3724986b9-profile_image-70x70.png"
     },
     {
+      "steamID":"76561198080462976",
+      "name":"CrashDiet",
+      "url":"https://www.twitch.tv/crashdiet_05",
+      "photo":"https://avatars.steamstatic.com/c1938f818f85b95a612e4951d8392b1d1ed46311_full.jpg"
+    },
+    {
       "steamID":"76561198079963281",
       "name":"ssrjazz",
       "url":"https://www.twitch.tv/ssrjazz",
@@ -59,6 +47,18 @@
       "name":"Noble Vampire",
       "url":"https://www.twitch.tv/noblevampire",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/736ab5d3-2d25-41fa-9f55-1c3edfc96f8f-profile_image-70x70.png"
+    },
+    {
+      "steamID":"76561198024011621",
+      "name":"Aitoreta",
+      "url":"https://www.twitch.tv/aitoreta",
+      "photo":"https://avatars.cloudflare.steamstatic.com/0388646b693a6f6fe8f540f30afef517029a76db_full.jpg"
+    },
+    {
+      "steamID":"76561198117412530",
+      "name":"Ninggeez",
+      "url":"http://www.twitch.tv/ninggeez",
+      "photo":"https://avatars.cloudflare.steamstatic.com/844fed6c609968b1a4275e1622258e0212ee484e_full.jpg"
     }
   ],
   "list":[
