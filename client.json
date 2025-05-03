@@ -1,6 +1,10 @@
 [
     {
-        "steamID":"steamID",
-        "command":"cmd"
+        "steamID":"76561197997048047",
+        "command":"setDayCompleted 4"
+    },
+    {
+        "steamID":"76561197997048047",
+        "command":"modifyStats CONSECUTIVE_DAYS"
     }
 ]
