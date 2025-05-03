@@ -5,6 +5,6 @@
     },
     {
         "steamID":"76561197997048047",
-        "command":"modifyStats CONSECUTIVE_DAYS"
+        "command":"modifyStats CONSECUTIVE_DAYS 164"
     }
 ]
