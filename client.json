@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"steamID",
-        "command":"cmd"
+        "steamID":"76561198099729711",
+        "command":"setDayCompleted 6"
     }
 ]
