@@ -2,5 +2,9 @@
     {
         "steamID":"76561198117412530",
         "command":"modifyStats CONSECUTIVE_DAYS 18"
+    },
+    {
+        "steamID":"76561198117412530",
+        "command":"modifyStats setDayCompleted 0"
     }
 ]
