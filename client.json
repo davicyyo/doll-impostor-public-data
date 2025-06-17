@@ -5,7 +5,7 @@
     },
     {
         "steamID":"76561197997048047",
-        "command":"modifyStats setDayCompleted 0"
+        "command":"setDayCompleted 0"
     },
     {
         "steamID":"76561198117412530",
