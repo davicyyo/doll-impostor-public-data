@@ -1,13 +1,5 @@
 [
     {
-        "steamID":"76561197997048047",
-        "command":"modifyStats CONSECUTIVE_DAYS 206"
-    },
-    {
-        "steamID":"76561197997048047",
-        "command":"setDayCompleted 0"
-    },
-    {
         "steamID":"76561198117412530",
         "command":"modifyStats WEEKLY 18"
     }
