@@ -1,6 +1,10 @@
 [
     {
-        "steamID":"76561198117412530",
-        "command":"modifyStats WEEKLY 18"
+        "steamID":"76561197997048047",
+        "command":"modifyStats ELO 100"
+    },
+    {
+        "steamID":"76561198356244967",
+        "command":"modifyStats ELO 100"
     }
 ]
