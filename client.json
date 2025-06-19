@@ -1,14 +1,6 @@
 [
     {
-        "steamID":"76561197997048047",
-        "command":"modifyStats CONSECUTIVE_DAYS 207"
-    },
-    {
-        "steamID":"76561197997048047",
-        "command":"modifyStats ELO 100"
-    },
-    {
-        "steamID":"76561197997048047",
-        "command":"setDayCompleted 2"
+        "steamID":"steamID",
+        "command":"cmd"
     }
 ]
