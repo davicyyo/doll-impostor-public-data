@@ -7,16 +7,22 @@
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/e6d1eecb-bcb3-4c31-add4-69c935886433-profile_image-70x70.png"
     },
     {
-      "steamID":"76561199242350389",
-      "name":"kresti4k",
-      "url":"https://www.tiktok.com/@kresti4k",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ecb2c7c2-398e-461e-a2e0-1560afbe3df8-profile_image-70x70.png"
-    },
-    {
       "steamID":"76561198099729711",
       "name":"gelius_gelius",
       "url":"https://www.twitch.tv/gelius_gelius",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/521b769f-e0bc-4a26-bb89-21c907001148-profile_image-70x70.png"
+    },
+    {
+      "steamID":"76561198262329471",
+      "name":"SparklezPride",
+      "url":"https://www.twitch.tv/sparklezpride",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/632726f3-84cc-49a0-93bb-651c26a4b94c-profile_image-70x70.png"
+    },
+    {
+      "steamID":"76561198117412530",
+      "name":"Ninggeez",
+      "url":"http://www.twitch.tv/ninggeez",
+      "photo":"https://avatars.cloudflare.steamstatic.com/844fed6c609968b1a4275e1622258e0212ee484e_full.jpg"
     },
     {
       "steamID":"76561198356244967",
@@ -25,11 +31,13 @@
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/c5cb8ffc-adad-4364-95fb-d869459dd7b6-profile_image-70x70.png"
     },
     {
-      "steamID":"76561198187687375",
-      "name":"BabaYaga",
-      "url":"https://www.twitch.tv/bryanxbabayaga",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/92d960fe-5766-445b-876b-82055f9779ae-profile_image-70x70.png"
-    },
+      "steamID":"76561199242350389",
+      "name":"kresti4k",
+      "url":"https://www.tiktok.com/@kresti4k",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ecb2c7c2-398e-461e-a2e0-1560afbe3df8-profile_image-70x70.png"
+    }
+  ],
+  "list":[
     {
       "steamID":"76561198079963281",
       "name":"ssrjazz",
@@ -43,12 +51,6 @@
       "photo":"https://avatars.cloudflare.steamstatic.com/0388646b693a6f6fe8f540f30afef517029a76db_full.jpg"
     },
     {
-      "steamID":"76561198117412530",
-      "name":"Ninggeez",
-      "url":"http://www.twitch.tv/ninggeez",
-      "photo":"https://avatars.cloudflare.steamstatic.com/844fed6c609968b1a4275e1622258e0212ee484e_full.jpg"
-    },
-    {
       "steamID":"76561198140978888",
       "name":"Noble Vampire",
       "url":"https://www.twitch.tv/noblevampire",
@@ -59,9 +61,13 @@
       "name":"Nemesis_TTV_",
       "url":"https://www.twitch.tv/nemesis_ttv_",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/df036533-fbfa-4cff-b861-51227627429e-profile_image-70x70.png"
-    }
-  ],
-  "list":[
+    },
+    {
+      "steamID":"76561198187687375",
+      "name":"BabaYaga",
+      "url":"https://www.twitch.tv/bryanxbabayaga",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/92d960fe-5766-445b-876b-82055f9779ae-profile_image-70x70.png"
+    },
     {
       "steamID":"76561198973991262",
       "name":"Meatba",
@@ -79,18 +85,6 @@
       "name":"WolfOnF1r3",
       "url":"https://www.twitch.tv/wolfonf1r3",
       "photo":"https://avatars.cloudflare.steamstatic.com/5e116838041f72965c3f4a4670d46a649e092c6c_full.jpg"
-    },
-    {
-      "steamID":"76561198091646120",
-      "name":"GameHauntings",
-      "url":"https://www.twitch.tv/gamehauntings",
-      "photo":"https://avatars.cloudflare.steamstatic.com/25523c04aa68e343389ad3a12f9dbc6ab70733c3_full.jpg"
-    },
-    {
-      "steamID":"76561199128139064",
-      "name":"dm_darkqueen",
-      "url":"https://www.twitch.tv/dm_darkqueen",
-      "photo":"https://avatars.cloudflare.steamstatic.com/0d03ceeab5d673b969786349eeffa7ea478adf28_full.jpg"
     },
     {
       "steamID":"76561198306682760",
@@ -111,46 +105,10 @@
       "photo":"https://avatars.steamstatic.com/511ece306d8b77b0fcfadb1e0dbdd892331690a8_full.jpg"
     },
     {
-      "steamID":"76561198198407398",
-      "name":"JustSomeDude44",
-      "url":"https://www.twitch.tv/justsomedude44",
-      "photo":"https://avatars.fastly.steamstatic.com/26321b7f91031c001662257728d06d53a9daccd2_full.jpg"
-    },
-    {
-      "steamID":"76561199535774808",
-      "name":"DotWonk",
-      "url":"https://www.twitch.tv/dotwonk",
-      "photo":"https://avatars.fastly.steamstatic.com/d089668a87179b08bb1d30359fc70c4f0f525d10_full.jpg"
-    },
-    {
-      "steamID":"76561199097896043",
-      "name":"UrFavSavage",
-      "url":"https://kick.com/urfavsavage",
-      "photo":"https://pbs.twimg.com/profile_images/1641101768149934085/y8Z8cRhn_400x400.jpg"
-    },
-    {
       "steamID":"76561197997048047",
       "name":"Davicyyo (dev)",
       "url":"https://www.twitch.tv/davicyyotv",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/faa250ea-e7a0-4fb9-94d3-7ce76f8cd867-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561198405724341",
-      "name":"InShyk0",
-      "url":"https://www.twitch.tv/inshyk0",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/42c150f3-c84a-42e1-8178-5ce455221ea1-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561198171667989",
-      "name":"artemon_27",
-      "url":"https://www.twitch.tv/artemon_27",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/a152986f-1388-4d34-967c-1824f294b673-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561199019263123",
-      "name":"happyphoenix_",
-      "url":"https://www.twitch.tv/happyphoenix_",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/6ff13dac-04e8-4520-8047-d4004d6e458b-profile_image-70x70.png"
     },
     {
       "steamID":"76561199436931751",
@@ -163,12 +121,6 @@
       "name":"DragonNephium",
       "url":"https://www.twitch.tv/dragonnephium",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/dbffa680-332f-44ab-9172-948286ee9b1b-profile_image-70x70.png"
-    },
-    {
-      "steamID":"76561198262329471",
-      "name":"SparklezPride",
-      "url":"https://www.twitch.tv/sparklezpride",
-      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/632726f3-84cc-49a0-93bb-651c26a4b94c-profile_image-70x70.png"
     }
   ]
 }
