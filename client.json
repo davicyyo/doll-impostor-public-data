@@ -1,6 +1,10 @@
 [
     {
-        "steamID":"steamID",
-        "command":"cmd"
+        "steamID":"76561199490025369",
+        "command":"unlockAllSafehouseItems 1"
+    },
+    {
+        "steamID":"76561199490025369",
+        "command":"modifyStats MONEY 2259727"
     }
 ]
