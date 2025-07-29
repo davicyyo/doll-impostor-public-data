@@ -35,7 +35,7 @@
       "name":"kresti4k",
       "url":"https://www.tiktok.com/@kresti4k",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ecb2c7c2-398e-461e-a2e0-1560afbe3df8-profile_image-70x70.png"
-    }
+    },
   ],
   "list":[
     {
@@ -157,6 +157,18 @@
       "name":"TaiyoKuzunoha",
       "url":"https://www.twitch.tv/taiyokuzunoha",
       "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/35056aca-7346-4a26-a13d-874d9c33167c-profile_image-70x70.png"
+    },
+    {
+      "steamID":"76561199101063555",
+      "name":"al0habeachesxo",
+      "url":"https://kick.com/al0habeachesxo",
+      "photo":"https://avatars.akamai.steamstatic.com/d419c4994dd7b9f4c5fb26c0035f3ce546cc7d7d_full.jpg"
+    },
+    {
+      "steamID":"76561198125043514",
+      "name":"LarryTheTiger",
+      "url":"https://www.twitch.tv/larrythetiger",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/c04b361c-2890-483b-9118-dbcef65dd0a1-profile_image-70x70.png"
     }
   ]
 }
