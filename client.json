@@ -6,5 +6,9 @@
     {
         "steamID":"76561197997048047",
         "command":"modifyStats WEEKLY 37"
+    },
+    {
+        "steamID":"76561197997048047",
+        "command":"setDayCompleted 0"
     }
 ]
