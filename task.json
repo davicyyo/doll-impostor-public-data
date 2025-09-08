@@ -2,167 +2,27 @@
     {
         "singleplayer": [
             {
-                "map": "daycareMap",
-                "value": 2
-            }
-        ],
-        "multiplayer": [],
-        "extras": {
-            "time_trial": {
-                "map": "circusMap",
+                "map": "cabinMap",
                 "value": 1
             },
-            "endless": {
-                "map": "circusMap",
+            {
+                "map": "toyFactoryMap",
                 "value": 1
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 1
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "daycareMap",
-                "value": 3
-            },
-            {
-                "map": "houseMap",
-                "value": 0
             }
         ],
         "multiplayer": [
             {
-                "map": "daycareMap",
-                "value": 1
+                "map": "cabinMap",
+                "value": 0
             }
         ],
         "extras": {
             "time_trial": {
-                "map": "toyFactoryMap",
+                "map": "daycareMap",
                 "value": 1
             },
             "endless": {
-                "map": "cabinMap",
-                "value": 2
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 1
-        }
-    },
-    {
-        "singleplayer": [
-            {
                 "map": "daycareMap",
-                "value": 0
-            }
-        ],
-        "multiplayer": [
-            {
-                "map": "toyFactoryMap",
-                "value": 2
-            }
-        ],
-        "extras": {
-            "time_trial": {
-                "map": "circusMap",
-                "value": 1
-            },
-            "endless": {
-                "map": "toyFactoryMap",
-                "value": 2
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 0
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "toyFactoryMap",
-                "value": 1
-            },
-            {
-                "map": "houseMap",
-                "value": 2
-            },
-            {
-                "map": "circusMap",
-                "value": 3
-            },
-            {
-                "map": "cabinMap",
-                "value": 0
-            }
-        ],
-        "multiplayer": [],
-        "extras": {
-            "random": "cabinMap",
-            "time_trial": {
-                "map": "daycareMap",
-                "value": 3
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 0
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "toyFactoryMap",
-                "value": 0
-            },
-            {
-                "map": "cabinMap",
-                "value": 0
-            }
-        ],
-        "multiplayer": [
-            {
-                "map": "circusMap",
-                "value": 2
-            }
-        ],
-        "extras": {
-            "random": "circusMap",
-            "time_trial": {
-                "map": "daycareMap",
-                "value": 3
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 1
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "daycareMap",
-                "value": 1
-            },
-            {
-                "map": "houseMap",
-                "value": 3
-            },
-            {
-                "map": "circusMap",
-                "value": 1
-            }
-        ],
-        "multiplayer": [],
-        "extras": {
-            "random": "cabinMap",
-            "time_trial": {
-                "map": "cabinMap",
                 "value": 1
             }
         },
@@ -174,16 +34,181 @@
     {
         "singleplayer": [
             {
-                "map": "toyFactoryMap",
-                "value": 1
+                "map": "circusMap",
+                "value": 3
+            },
+            {
+                "map": "houseMap",
+                "value": 0
             }
         ],
-        "multiplayer": [],
+        "multiplayer": [
+            {
+                "map": "cabinMap",
+                "value": 2
+            }
+        ],
         "extras": {
             "random": "toyFactoryMap",
             "time_trial": {
+                "map": "houseMap",
+                "value": 2
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "toyFactoryMap",
+                "value": 2
+            },
+            {
+                "map": "cabinMap",
+                "value": 2
+            }
+        ],
+        "multiplayer": [],
+        "extras": {
+            "random": "circusMap",
+            "time_trial": {
+                "map": "toyFactoryMap",
+                "value": 3
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "circusMap",
+                "value": 3
+            },
+            {
                 "map": "daycareMap",
+                "value": 0
+            }
+        ],
+        "multiplayer": [
+            {
+                "map": "circusMap",
                 "value": 1
+            }
+        ],
+        "extras": {
+            "time_trial": {
+                "map": "toyFactoryMap",
+                "value": 3
+            },
+            "endless": {
+                "map": "toyFactoryMap",
+                "value": 1
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "toyFactoryMap",
+                "value": 0
+            },
+            {
+                "map": "daycareMap",
+                "value": 0
+            },
+            {
+                "map": "houseMap",
+                "value": 3
+            },
+            {
+                "map": "circusMap",
+                "value": 3
+            }
+        ],
+        "multiplayer": [],
+        "extras": {
+            "time_trial": {
+                "map": "houseMap",
+                "value": 3
+            },
+            "endless": {
+                "map": "cabinMap",
+                "value": 3
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 1
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "circusMap",
+                "value": 2
+            },
+            {
+                "map": "houseMap",
+                "value": 0
+            },
+            {
+                "map": "cabinMap",
+                "value": 2
+            }
+        ],
+        "multiplayer": [
+            {
+                "map": "circusMap",
+                "value": 0
+            }
+        ],
+        "extras": {
+            "time_trial": {
+                "map": "circusMap",
+                "value": 3
+            },
+            "endless": {
+                "map": "daycareMap",
+                "value": 2
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "daycareMap",
+                "value": 3
+            },
+            {
+                "map": "houseMap",
+                "value": 1
+            }
+        ],
+        "multiplayer": [
+            {
+                "map": "houseMap",
+                "value": 1
+            }
+        ],
+        "extras": {
+            "random": "houseMap",
+            "time_trial": {
+                "map": "daycareMap",
+                "value": 2
             }
         },
         "career": {
