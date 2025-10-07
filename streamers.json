@@ -193,6 +193,18 @@
       "name":"Aitoreta",
       "url":"https://www.twitch.tv/aitoreta",
       "photo":"https://avatars.cloudflare.steamstatic.com/0388646b693a6f6fe8f540f30afef517029a76db_full.jpg"
+    },
+    {
+      "steamID":"76561198117783063",
+      "name":"Cinnatwist",
+      "url":"https://www.twitch.tv/cinnatwist",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/fe092738-4261-4b22-aad5-ccf33f69c7ca-profile_image-70x70.png"
+    },
+    {
+      "steamID":"76561198142666555",
+      "name":"Yukino_XIII",
+      "url":"https://www.twitch.tv/yukino_xiii",
+      "photo":"https://static-cdn.jtvnw.net/jtv_user_pictures/517ad5a4-13ba-4cdb-878f-171f7268b43d-profile_image-70x70.png"
     }
   ]
 }
