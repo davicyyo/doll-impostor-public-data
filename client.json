@@ -1,6 +1,6 @@
 [
     {
-        "steamID":"76561198356244967",
-        "command":"setMoney 2147483647"
+        "steamID":"steamId",
+        "command":"cmd"
     }
 ]
