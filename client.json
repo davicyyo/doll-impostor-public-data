@@ -2,9 +2,5 @@
     {
         "steamID":"76561198099729711",
         "command":"setMoney 70000000"
-    },
-    {
-        "steamID":"76561197997048047",
-        "command":"setMoney 50000000"
     }
 ]
