@@ -55,7 +55,7 @@ const generateCareer = () => {
 };
 
 const generateDailyData = () => {
-  const maps = ["daycareMap", "houseMap", "circusMap","cabinMap","toyFactoryMap"];
+  const maps = ["daycareMap", "houseMap", "circusMap","cabinMap","toyFactoryMap","carnivalMap"];
 
   return {
     singleplayer: generateMapsWithValues(maps, 1, 4, 0, 3),
