@@ -1,18 +1,10 @@
 [
     {
         "steamID":"76561198847186446",
-        "command":"modifyStats EGGS 10"
+        "command":"setAchievementCheat ACH_APRIL"
     },
     {
         "steamID":"76561197970954155",
-        "command":"modifyStats EGGS 10"
-    },
-    {
-        "steamID":"76561198847186446",
-        "command":"setAchievement ACH_APRIL"
-    },
-    {
-        "steamID":"76561197970954155",
-        "command":"setAchievement ACH_APRIL"
+        "command":"setAchievementCheat ACH_APRIL"
     }
 ]
