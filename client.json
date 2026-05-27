@@ -1,26 +1,18 @@
 [
     {
         "steamID":"76561198847186446",
-        "command":"modifyStats PUMPKINS 10"
+        "command":"modifyStats EGGS 10"
     },
     {
         "steamID":"76561197970954155",
-        "command":"modifyStats PUMPKINS 10"
+        "command":"modifyStats EGGS 10"
     },
     {
         "steamID":"76561198847186446",
-        "command":"modifyStats GIFTS 10"
+        "command":"setAchievement ACH_APRIL"
     },
     {
         "steamID":"76561197970954155",
-        "command":"modifyStats GIFTS 10"
-    },
-    {
-        "steamID":"76561198847186446",
-        "command":"modifyStats HEARTS 10"
-    },
-    {
-        "steamID":"76561197970954155",
-        "command":"modifyStats HEARTS 10"
+        "command":"setAchievement ACH_APRIL"
     }
 ]
