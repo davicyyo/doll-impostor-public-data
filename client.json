@@ -1,10 +1,6 @@
 [
     {
-        "steamID":"76561198847186446",
-        "command":"setAchievementCheat ACH_APRIL"
-    },
-    {
-        "steamID":"76561197970954155",
-        "command":"setAchievementCheat ACH_APRIL"
+        "steamID":"76561199440897869",
+        "command":"unlockAllSafehouseItems 1"
     }
 ]
