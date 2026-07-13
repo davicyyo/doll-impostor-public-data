@@ -2,81 +2,30 @@
     {
         "singleplayer": [
             {
-                "map": "daycareMap",
+                "map": "houseMap",
                 "value": 1
-            },
+            }
+        ],
+        "multiplayer": [
             {
                 "map": "houseMap",
                 "value": 3
             }
         ],
-        "multiplayer": [],
-        "extras": {
-            "random": "daycareMap",
-            "time_trial": {
-                "map": "cabinMap",
-                "value": 3
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 0
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "houseMap",
-                "value": 1
-            },
-            {
-                "map": "cabinMap",
-                "value": 2
-            },
-            {
-                "map": "daycareMap",
-                "value": 3
-            }
-        ],
-        "multiplayer": [],
-        "extras": {
-            "random": "carnivalMap",
-            "time_trial": {
-                "map": "carnivalMap",
-                "value": 2
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 0
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "carnivalMap",
-                "value": 1
-            }
-        ],
-        "multiplayer": [],
         "extras": {
             "random": "circusMap",
             "time_trial": {
-                "map": "toyFactoryMap",
+                "map": "daycareMap",
                 "value": 2
             }
         },
         "career": {
             "map": "career",
-            "value": 1
+            "value": 0
         }
     },
     {
         "singleplayer": [
-            {
-                "map": "daycareMap",
-                "value": 1
-            },
             {
                 "map": "circusMap",
                 "value": 3
@@ -85,14 +34,62 @@
         "multiplayer": [],
         "extras": {
             "random": "circusMap",
-            "endless": {
-                "map": "cabinMap",
-                "value": 2
+            "time_trial": {
+                "map": "daycareMap",
+                "value": 3
             }
         },
         "career": {
             "map": "career",
-            "value": 1
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "carnivalMap",
+                "value": 1
+            }
+        ],
+        "multiplayer": [
+            {
+                "map": "daycareMap",
+                "value": 0
+            }
+        ],
+        "extras": {
+            "time_trial": {
+                "map": "toyFactoryMap",
+                "value": 2
+            },
+            "endless": {
+                "map": "circusMap",
+                "value": 1
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "cabinMap",
+                "value": 3
+            }
+        ],
+        "multiplayer": [],
+        "extras": {
+            "random": "houseMap",
+            "time_trial": {
+                "map": "carnivalMap",
+                "value": 3
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
         }
     },
     {
@@ -100,16 +97,57 @@
             {
                 "map": "circusMap",
                 "value": 2
+            },
+            {
+                "map": "daycareMap",
+                "value": 0
+            },
+            {
+                "map": "cabinMap",
+                "value": 1
+            }
+        ],
+        "multiplayer": [
+            {
+                "map": "cabinMap",
+                "value": 1
+            }
+        ],
+        "extras": {
+            "random": "circusMap",
+            "time_trial": {
+                "map": "circusMap",
+                "value": 1
+            }
+        },
+        "career": {
+            "map": "career",
+            "value": 0
+        }
+    },
+    {
+        "singleplayer": [
+            {
+                "map": "circusMap",
+                "value": 3
+            },
+            {
+                "map": "houseMap",
+                "value": 1
+            },
+            {
+                "map": "daycareMap",
+                "value": 3
             }
         ],
         "multiplayer": [],
         "extras": {
             "time_trial": {
-                "map": "cabinMap",
+                "map": "houseMap",
                 "value": 1
             },
             "endless": {
-                "map": "houseMap",
+                "map": "carnivalMap",
                 "value": 1
             }
         },
@@ -121,74 +159,21 @@
     {
         "singleplayer": [
             {
-                "map": "circusMap",
-                "value": 1
-            },
-            {
-                "map": "daycareMap",
-                "value": 2
-            },
-            {
-                "map": "toyFactoryMap",
-                "value": 1
-            },
-            {
                 "map": "cabinMap",
-                "value": 0
-            }
-        ],
-        "multiplayer": [
-            {
-                "map": "carnivalMap",
-                "value": 3
-            }
-        ],
-        "extras": {
-            "random": "toyFactoryMap",
-            "time_trial": {
-                "map": "carnivalMap",
                 "value": 2
+            }
+        ],
+        "multiplayer": [],
+        "extras": {
+            "random": "cabinMap",
+            "time_trial": {
+                "map": "cabinMap",
+                "value": 3
             }
         },
         "career": {
             "map": "career",
             "value": 0
-        }
-    },
-    {
-        "singleplayer": [
-            {
-                "map": "carnivalMap",
-                "value": 2
-            },
-            {
-                "map": "daycareMap",
-                "value": 3
-            },
-            {
-                "map": "houseMap",
-                "value": 0
-            }
-        ],
-        "multiplayer": [
-            {
-                "map": "circusMap",
-                "value": 1
-            }
-        ],
-        "extras": {
-            "time_trial": {
-                "map": "cabinMap",
-                "value": 1
-            },
-            "endless": {
-                "map": "cabinMap",
-                "value": 2
-            }
-        },
-        "career": {
-            "map": "career",
-            "value": 1
         }
     }
 ]
